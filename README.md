@@ -1,1 +1,1 @@
-# Simple--counter-App-
+# Simple-Counter-App
